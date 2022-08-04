@@ -9,9 +9,8 @@ profile:
   image: Bio/Bio_picture.png
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>2-270 Keller Hall, 200 Union St. SE,</p>
+    <p>Minneapolis MN 55455</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
