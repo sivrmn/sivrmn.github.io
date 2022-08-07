@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: > <a href='#'>Ph.D. Candidate</a>.
-         <p>Major - Electrical & Computer Engineering </p>
-         <p>Minor - Computer Science & Engineering </p>
+subtitle: <a href='#'>Ph.D. Candidate, University of Minnesota, Twin-Cities </a>. 
 
 profile:
   align: right
