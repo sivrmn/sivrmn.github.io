@@ -3,9 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-      <p> Ph.D. Candidate </p> 
-      <p> Major - Electrical Engineering </p>
-      <p> Minor - Computer Science </p>
+      <p> Ph.D. Candidate | Major - Electrical Engineering | Minor - Computer Science </p>
 
 profile:
   align: right
