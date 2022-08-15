@@ -29,8 +29,8 @@
           <div class="author">
           {% assign author_array_size = entry.author_array | size %}
 
-          {%- if site.max_author_limit and author_array_size > site.max_author_limit %}
-            {% assign author_array_limit = site.max_author_limit %}
+          {%- if 10 and author_array_size > 10 %}
+            {% assign author_array_limit = 10 %}
           {% else %}
             {% assign author_array_limit = author_array_size %}
           {% endif %}
@@ -51,7 +51,7 @@
                 {%- endif -%}
               {%- endfor -%}
             {%- endif -%}
-            
+
             {%- if forloop.length == 1 -%}
               {%- if author_is_self %}
                 <em>{{author.last}}, {{author.first}}</em>
@@ -138,7 +138,7 @@
             {{ periodical | strip }}
           </div>
         {%- endif %}
-        
+
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
