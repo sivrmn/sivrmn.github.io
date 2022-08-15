@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: ABOUT
 permalink: /
 subtitle: >
       <p> Ph.D. Candidate | Major - Electrical Engineering | Minor - Computer Science </p>
