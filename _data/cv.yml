@@ -13,9 +13,7 @@
   contents:
     - title: PhD in Electrical Engineering with Computer Science Minor
       institution: University of Minnesota, Twin-Cities
-      year: Dec. 2022
-      
-       (Expected)
+      year: "Dec. 2022 \n (Expected)"
       #description:
       #  - Description 1.
       #  - Description 2.
@@ -37,7 +35,7 @@
 - title: Professional Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
+    - title: Research Intern
       institution: Institute for Advanced Study, Princeton University
       year: 1933 - 1955
       description:
