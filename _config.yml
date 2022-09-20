@@ -92,6 +92,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 blog_name: Random Vignettes # blog_name will be displayed in your blog page
 blog_nav_title: BLOG # your blog must have a title for it to be displayed in the nav bar
 nav_order: 5
+nav: false
 blog_description: Articles on various topics
 permalink: /blog/:year/:title/
 
