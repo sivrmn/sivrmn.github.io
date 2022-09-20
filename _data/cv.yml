@@ -1,32 +1,34 @@
-- title: General Information
+- title: Contact
   type: map
   contents:
     - name: Full Name
       value: Sivaraman Rajaganapathy
-    - name: Languages
-      value: English, Hindi, Tamil
+    #- name: Languages
+    #  value: English, Hindi, Tamil
+    - name: Email
+      value: sivrmn@umn.edu
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in Electrical Engineering with Computer Science Minor
       institution: University of Minnesota, Twin-Cities
-      year: DEC. 2022 (Exptected)
+      year: Dec. 2022 \n (Expected)
       description:
         - Description 1.
         - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        #- title: Description 3.
+        #  contents:
+        #    - Sub-description 1.
+        #    - Sub-description 2.
+    - title: Master of Technology in Systems & Control Engineering
+      institution: Indian Institute of Technology, Bombay
+      year: 2013
       description:
         - Description 1.
         - Description 2.
 
-- title: Experience
+- title: Bachelor of Engineering in Electrical Engineering
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
