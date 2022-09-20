@@ -38,8 +38,9 @@
     - title: Research Intern
       institution: Boston Scientific Inc., Arden Hills, MN
       year: JUN 2021 --- AUG 2021
-      description:<b> Deep Learning Performance Analysis </b> ':' Identified limitations in the training data-set that lead to the prediction errors 
-        -
+      description:
+        - <b> Deep Learning Performance Analysis </b> ':' Identified limitations in the training data-set that lead to the prediction errors
+        - <b> </b> ':'
 
         #- title: Description 3.
         #  contents:
