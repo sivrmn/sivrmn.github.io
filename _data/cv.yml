@@ -13,8 +13,8 @@
   contents:
     - title: PhD in Electrical Engineering with Computer Science Minor
       institution: University of Minnesota, Twin-Cities
-      year: "Dec. 2022 \n
-      (Expected)"
+      year: Dec. 2022 \newlines
+      (Expected)
       #description:
       #  - Description 1.
       #  - Description 2.
@@ -40,7 +40,7 @@
       institution: Boston Scientific Inc., Arden Hills, MN
       year: JUN 2021 --- AUG 2021
       description:
-
+        -
 
         #- title: Description 3.
         #  contents:
