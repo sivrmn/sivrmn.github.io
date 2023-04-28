@@ -3,7 +3,7 @@ layout: about
 title: ABOUT
 permalink: /
 subtitle: >
-      <p> Ph.D. Candidate | Major - Electrical Engineering | Minor - Computer Science </p>
+      <p> Research Fellow |Artificial Intelligence and Informatics | Mayo Clinic </p>
 
 profile:
   align: right
@@ -19,8 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate at the [University of Minnesota, Twin-Cities](https://twin-cities.umn.edu/). I work in the [Salapaka Lab](http://salapakalab.ece.umn.edu/), at the [Dept. of Electrical and Computer Engineering](https://cse.umn.edu/ece) and I'm advised by Prof. Murti Salapaka.
-My thesis is on the development of experimental as well as analytical tools needed to model the mechanical properties of proteins at the single molecule scale. This research is at the intersection of system identification, biophysics, statistical mechanics, and machine learning.    
+I am a Research Fellow at the [Department of Artificial Intelligence and Informatics](https://www.mayo.edu/research/departments-divisions/artificial-intelligence-informatics/overview), [Mayo Clinic](https://www.mayoclinic.org/). I obtained my Ph.D. from the [Salapaka Lab](http://salapakalab.ece.umn.edu/), University of Minnesota, Twin-Cities in [Electrical and Computer Engineering](https://cse.umn.edu/ece) with a minor in [Computer Science](https://cse.umn.edu/cs). I was advised by Prof. Murti Salapaka. My thesis was on the development of experimental as well as analytical tools needed to model the mechanical properties of proteins at the single molecule scale. My research is at the intersection of system identification, biophysics, statistical mechanics, and machine learning.
+
 
 <!--- Write your biography here (Test Test). Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
