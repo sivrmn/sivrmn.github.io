@@ -10,16 +10,16 @@ profile:
   image: Bio/Bio_picture.png
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>2-270 Keller Hall,</p>
-    <p>200 Union St. SE,</p>
-    <p>Minneapolis MN 55455</p>
+    <p>Harwick Building,</p>
+    <p>200 First St. SW,</p>
+    <p>Rochester MN 55905</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Research Fellow at the [Department of Artificial Intelligence and Informatics](https://www.mayo.edu/research/departments-divisions/artificial-intelligence-informatics/overview), [Mayo Clinic](https://www.mayoclinic.org/) and work with Prof. Nansu Zong. I obtained my Ph.D. from the [University of Minnesota, Twin-Cities](https://twin-cities.umn.edu/) in [Electrical and Computer Engineering](https://cse.umn.edu/ece) with a minor in [Computer Science](https://cse.umn.edu/cs). I was advised by [Prof. Murti Salapaka](http://salapakalab.ece.umn.edu/). My thesis was on the development of experimental as well as analytical tools needed to model the mechanical properties of proteins at the single molecule scale. My research is at the intersection of system identification, biophysics, statistical mechanics, and machine learning.
+I am a Research Fellow at the [Department of Artificial Intelligence and Informatics](https://www.mayo.edu/research/departments-divisions/artificial-intelligence-informatics/overview), [Mayo Clinic](https://www.mayoclinic.org/). I obtained my Ph.D. from the [University of Minnesota, Twin-Cities](https://twin-cities.umn.edu/) in [Electrical and Computer Engineering](https://cse.umn.edu/ece) with a minor in [Computer Science](https://cse.umn.edu/cs). I was advised by [Prof. Murti Salapaka](http://salapakalab.ece.umn.edu/). My thesis was on the development of experimental as well as analytical tools needed to model the mechanical properties of proteins at the single molecule scale. My research is at the intersection of system identification, biophysics, statistical mechanics, and machine learning.
 
 
 <!--- Write your biography here (Test Test). Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

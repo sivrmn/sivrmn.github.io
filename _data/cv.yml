@@ -6,14 +6,14 @@
     #- name: Languages
     #  value: English, Hindi, Tamil
     - name: Email
-      value: sivrmn@umn.edu
+      value: sivaraman.rajaganapathy@gmail.com
 
 - title: Education
   type: time_table
   contents:
     - title: PhD in Electrical Engineering with Computer Science Minor
       institution: University of Minnesota, Twin-Cities
-      year: 12/2022 Expected
+      year: 2023
       #description:
       #  - Description 1.
       #  - Description 2.
@@ -35,6 +35,15 @@
 - title: Professional Experience
   type: time_table
   contents:
+    - title: Research Fellow
+      institution: Mayo Clinic, Rochester, MN
+      year: MAR 2023 - Present
+      description:
+        - "<b> Optimized Treatment Regimen </b> ':'' Mentored intern to develop an algorithm that can optimize the Alzheimer's disease treatment regimen at the level of junior physicians."
+        - "<b> Automated Clinical Synopsis </b> ':' Developed strategy and language model for the synthesis of cancer synoptic reports from clinical notes to reduce physician burden."
+        - "<b> Alzheimer's Disease Prediction </b> ':' Developing smart models to detect Alzheimer's Disease using multi-modal lab tests, cognitive assessments, and clinical observations."
+        - "<b> Clinical Trial Emulation</b> ':' Working with cross-functional team to design tool for emulating heart-failure drug efficacy clinical trials in a state-of-the-art AI cloud-based platform."
+
     - title: Research Intern
       institution: Boston Scientific Inc., Arden Hills, MN
       year: JUN 2021 - AUG 2021
