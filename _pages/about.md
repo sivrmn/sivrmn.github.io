@@ -25,7 +25,7 @@ I am a Research Fellow at the [Department of Artificial Intelligence and Informa
 [GitHub](https://github.com/sivrmn) \| 
 [LinkedIn](https://www.linkedin.com/in/sivrmn/)
 
-Email: *sivaraman&#46;rajaganapathy&#64;gmail&#46;com*
+Email: **sivaraman&#46;rajaganapathy&#64;gmail&#46;com**
 
 <!--- Write your biography here (Test Test). Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
