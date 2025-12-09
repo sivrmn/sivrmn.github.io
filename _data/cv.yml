@@ -6,7 +6,7 @@
     #- name: Languages
     #  value: English, Hindi, Tamil
     - name: Email
-      value: sivaraman.rajaganapathy@gmail.com
+      value: 'sivaraman&#46;rajaganapathy&#64;gmail&#46;com'
 
 - title: Education
   type: time_table
